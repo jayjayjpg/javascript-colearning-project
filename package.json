@@ -1,0 +1,24 @@
+{
+  "name": "javascript-colearning-project",
+  "version": "1.0.0",
+  "description": "JavaScript CoLearning Project for JavaScript CoLearning Nights at EI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessica-jordan/javascript-colearning-project.git"
+  },
+  "author": "Jessica Jordan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessica-jordan/javascript-colearning-project/issues"
+  },
+  "homepage": "https://github.com/jessica-jordan/javascript-colearning-project#readme",
+  "devDependencies": {
+    "connect": "^3.5.0",
+    "serve-static": "^1.11.1"
+  }
+}
